@@ -1,0 +1,66 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022 Brian Passavanti (gottaloveit@gmail.com)
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: wordpress-update-unique-keys 1.0.11\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-18 12:35-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: updateuniquekeys.class.php:151
+msgid "Config File Not Writable."
+msgstr ""
+
+#: updateuniquekeys.class.php:152
+#, php-format
+msgid "Manually edit the file %s in your blog root with the following:"
+msgstr ""
+
+#: updateuniquekeys.class.php:159
+msgid "Config File Updated!"
+msgstr ""
+
+#: updateuniquekeys.class.php:160
+msgid ""
+"You have automatically been logged out, due to the new keys.  Your password "
+"is the same."
+msgstr ""
+
+#: updateuniquekeys.class.php:166
+msgid "An error has occurred, please try again"
+msgstr ""
+
+#: updateuniquekeys.class.php:172
+#, php-format
+msgid ""
+"The %s module does not seem to be loaded.  Please ask your hosting provider "
+"to enable it and then try again."
+msgstr ""
+
+#: updateuniquekeys.class.php:178
+#, php-format
+msgid ""
+"Press the button below to generate the keys and salts and update the %s file."
+msgstr ""
+
+#: updateuniquekeys.class.php:228
+msgid "Other Plugins"
+msgstr ""
+
+#: updateuniquekeys.class.php:238
+msgid "Donate"
+msgstr ""
+
+#: updateuniquekeys.class.php:239
+msgid "Donations appreciated, thank you!"
+msgstr ""
